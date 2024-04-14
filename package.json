@@ -40,7 +40,7 @@
     "xml": "^1.0.1",
     "xml-crypto": "^1.4.0",
     "xmldom": "^0.1.27",
-    "xpath": "^0.0.27"
+    "xpath": "^0.0.34"
   },
   "peerDependencies": {
     "@authenio/samlify-libxml-xsd": "^1.0.1",
