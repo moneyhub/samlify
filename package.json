@@ -31,7 +31,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@authenio/xml-encryption": "^0.11.3",
+    "@authenio/xml-encryption": "^1.2.2",
     "camelcase": "^5.3.1",
     "deflate-js": "^0.2.3",
     "node-forge": "^0.8.5",
